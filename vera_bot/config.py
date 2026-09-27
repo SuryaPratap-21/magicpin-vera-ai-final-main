@@ -8,9 +8,9 @@ from dotenv import load_dotenv
 load_dotenv(Path(__file__).resolve().parents[1] / ".env")
 
 # Team
-TEAM_NAME = "DakshTheCoder"
-TEAM_MEMBERS: list[str] = ["Daksh Malhotra"]
-CONTACT_EMAIL = "dakshmalhotra_23ep033@dtu.ac.in"
+TEAM_NAME = "TheCoder"
+TEAM_MEMBERS: list[str] = ["Surya Pratap Singh "]
+CONTACT_EMAIL = "spsinghKhangarot@gmail.com"
 APPROACH = "hybrid-bm25-retrieval-plus-llm-composer"
 
 # LLM Provider: "openai" or "gemini"
