@@ -13,3 +13,4 @@ repo_analysis/
 .env
 .env.*
 *.log
+.env
